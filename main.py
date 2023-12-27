@@ -8,7 +8,6 @@ from get_products import filter_by_ratings, get_cheapest_product, get_products
 class Query(Model):
     name: str
 
-
 class ProductsData(Model):
     products: List[Dict[str, Any]]
     

@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 from typing import List, Dict, Any
@@ -12,7 +13,7 @@ def get_products(product_name: str):
         "limit": "300"
     }
     headers = {
-        "X-RapidAPI-Key": "7a12d3c0a6msh6461c278b79a852p111a13jsnba013a928f97",
+        "X-RapidAPI-Key": str(os.environ.get('RAPID_API_KEY')),
         "X-RapidAPI-Host": "real-time-product-search.p.rapidapi.com"
     }
     response = requests.get(url, headers=headers, params=querystring)
