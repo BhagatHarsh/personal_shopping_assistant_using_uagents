@@ -24,10 +24,14 @@ use the .env.template file to create the .env file and add the key to it.
 Then you can run the uagents project by running:
 
 ```
-python main.py [Name of the product] [Rating filter]
+python main.py "[Name of the product]" "[Rating filter (0 - 5)]"
 ```
 
 ![1703695204188](image/README/1703695204188.png)
+
+OUTPUT
+
+![Alt text](image-2.png)
 
 
 
