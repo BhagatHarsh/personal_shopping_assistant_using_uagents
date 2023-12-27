@@ -1,0 +1,18 @@
+{
+    "shopping_agent": {
+        "identity_key": "7a6a51de72ecf1c2d9e48b0d4a6e838c9dd32d63fe0a5d0b49423c7facc14838",
+        "wallet_key": "HcnhsQKZg81SYc4O3K2acB/MundNv0/rdzrY/7cxTMQ="
+    },
+    "product_agent": {
+        "identity_key": "d5d50557df4c2c5b2eef3e2bba703fd2a3c1d71da67a39de8bc60f99ea01ac3d",
+        "wallet_key": "bUf2TzK3/CA1shY5wtSOLx8hblmHaxQpjCHRUnP8s9U="
+    },
+    "buying_agent": {
+        "identity_key": "a10c44a86da4b2211e1781585f634fc49af9f4993421ab39e4168a19bb2597d7",
+        "wallet_key": "Hp7WYyKaPkgZ+haTkezfOZryU1+8+lUx8U+/4IXuTF4="
+    },
+    "filter_agent": {
+        "identity_key": "16571801549d7b8656fb37e6211680c7cc043ae926ea8c9068425a778d2bc5ba",
+        "wallet_key": "ro9mjcY6raHQcHaAEhs/m1gILOfdwbkVKZn184FJR2U="
+    }
+}
