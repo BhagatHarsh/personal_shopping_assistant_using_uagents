@@ -27,6 +27,12 @@ Then you can run the uagents project by running:
 python main.py "[Name of the product]" "[Rating filter (0 - 5)]"
 ```
 
+like:
+
+```
+python main.py Chess 4.5
+```
+
 ![1703695204188](image/README/1703695204188.png)
 
 OUTPUT
